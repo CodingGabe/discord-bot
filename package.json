@@ -1,0 +1,20 @@
+{
+  "name": "sombra-bot",
+  "version": "1.0.0",
+  "description": "A sweet hacker bot for my discord channel project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "sombra"
+  ],
+  "author": "Gabe Amaya",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
